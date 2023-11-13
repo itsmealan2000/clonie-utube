@@ -1,0 +1,31 @@
+.hash{
+    overflow-y:hidden;
+    overflow-x:auto;
+}
+
+.style-3::-webkit-scrollbar-track
+{
+	background-color: #00000000;
+}
+
+.style-3::-webkit-scrollbar
+{
+
+	background-color: #766e6e00;
+}
+
+.style-3::-webkit-scrollbar-thumb
+{
+
+	background-color: #00000000;
+}
+.content-shifted {
+	margin-left: 15.5%; /* Adjust the value based on your design */
+	transition: margin-left 0.3s ease; /* Add transition for smooth animation */
+  }
+  .rece{
+	background-color: black;
+	color: aliceblue;
+	padding: .5%;
+	margin-bottom: 0px;
+  }
